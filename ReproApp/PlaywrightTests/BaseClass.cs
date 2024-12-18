@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-using System.Net.Http.Headers;
-using Microsoft.AspNetCore.Mvc.Testing;
+﻿using System.Net.Http.Headers;
 using TUnit.Playwright;
 
 namespace PlaywrightTests;
